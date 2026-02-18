@@ -1,0 +1,17 @@
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\bin\Debug\net10.0\Inv.EmployeeAttendanceApp.Application.deps.json
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\bin\Debug\net10.0\Inv.EmployeeAttendanceApp.Application.runtimeconfig.json
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\bin\Debug\net10.0\Inv.EmployeeAttendanceApp.Application.dll
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\bin\Debug\net10.0\Inv.EmployeeAttendanceApp.Application.pdb
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\bin\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.dll
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\bin\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.pdb
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Application.csproj.AssemblyReference.cache
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Application.AssemblyInfoInputs.cache
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Application.AssemblyInfo.cs
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\obj\Debug\net10.0\Inv.Empl.FBEB6A6B.Up2Date
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Application.dll
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\obj\Debug\net10.0\refint\Inv.EmployeeAttendanceApp.Application.dll
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Application.pdb
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Application.genruntimeconfig.cache
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Application\obj\Debug\net10.0\ref\Inv.EmployeeAttendanceApp.Application.dll

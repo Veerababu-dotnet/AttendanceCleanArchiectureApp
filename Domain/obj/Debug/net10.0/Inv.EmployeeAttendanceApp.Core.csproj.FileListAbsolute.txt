@@ -1,0 +1,14 @@
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\bin\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.deps.json
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\bin\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.runtimeconfig.json
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\bin\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.dll
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\bin\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.pdb
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.csproj.AssemblyReference.cache
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.AssemblyInfoInputs.cache
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.AssemblyInfo.cs
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.dll
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\obj\Debug\net10.0\refint\Inv.EmployeeAttendanceApp.Core.dll
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.pdb
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\obj\Debug\net10.0\Inv.EmployeeAttendanceApp.Core.genruntimeconfig.cache
+C:\Users\VeeraBabuPennada\source\repos\AttendaneFirstProject\Domain\obj\Debug\net10.0\ref\Inv.EmployeeAttendanceApp.Core.dll

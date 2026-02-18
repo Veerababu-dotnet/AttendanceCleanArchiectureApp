@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Summary/">
+    <File Path="SummaryText.txt" />
+  </Folder>
+  <Project Path="Application/Inv.EmployeeAttendanceApp.Application.csproj" />
+  <Project Path="Domain/Inv.EmployeeAttendanceApp.Core.csproj" />
+  <Project Path="Infrastructure/Inv.EmployeeAttendanceApp.Infrastructure.csproj" />
+  <Project Path="Presentation/Inv.EmployeeAttendanceApp.Presentation.csproj" />
+</Solution>

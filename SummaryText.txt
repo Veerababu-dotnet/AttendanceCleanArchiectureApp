@@ -1,0 +1,23 @@
+﻿EmployeeAttendanceApp.sln
+ ├── Inv.EmployeeAttendanceApp.Core (Domain Layer)
+ │    ├── Entities
+ │    ├── Interfaces
+ │    └── Base
+ │
+ ├── Inv.EmployeeAttendanceApp.Application (Application Layer)
+ │    ├── DTOs
+ │    ├── ServiceInterfaces
+ │    ├── Services
+ │
+ ├── Inv.EmployeeAttendanceApp.Infrastructure (Infrastructure Layer)
+ │    ├── Data
+ │    ├── Repository
+ │    ├── DbSettings
+ │    └── Migrations
+ │
+ └── PresentationLayer_Ecommerce.Console (Presentation Layer)
+      ├── MainMenu
+      ├── Helpers
+      ├── Extension
+      ├── Program.cs
+      └── appsettings.json
