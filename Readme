@@ -1,0 +1,21 @@
+This Project about Employee Attendance System.
+
+I did this project using DotNet 10 with clean archiecture in console.
+
+These are the following requirements for this project:
+
+ Add Employee
+
+• Mark Attendance (Present/Absent/Late)
+
+• View Daily Attendance of any employee
+
+• View Monthly Attendance Summary
+
+• Search Attendance by Employee
+
+• Delete Attendance Record
+
+• Exit
+
+I used sql.
